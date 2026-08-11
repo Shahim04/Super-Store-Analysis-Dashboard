@@ -26,8 +26,8 @@ This project transforms raw transactional data into actionable operational insig
    * Standardized schema types, fixed missing attributes, and verified cross-table normalization rules.
 
 2. **Database Ingestion & Schema Transformation (Python & SQL):**
-   * Built an ETL pipeline script (`scripts/etl_pipeline.py`) leveraging **SQLAlchemy** and **Pandas** to programmatically push clean transaction data into an **MS SQL Server** instance.
-   * De-normalized flat tables into a optimized **Star Schema** relational design using SQL scripts (`scripts/db_schema.sql`) to separate transactional events from core business dimensions.
+   * Built an ETL pipeline script (`python_Scripts`) leveraging **SQLAlchemy** and **Pandas** to programmatically push clean transaction data into an **MS SQL Server** instance.
+   * De-normalized flat tables into a optimized **Star Schema** relational design using SQL scripts (`SQL_Schema`) to separate transactional events from core business dimensions.
 
 3. **Data Modeling & DAX (Power Query & Power BI):**
    * Imported schema tables into Power BI and validated `1:N` single-direction relationships across dimensions and the fact table.
