@@ -52,7 +52,7 @@ Provides a high-level strategic snapshot of aggregate business health across yea
 Breaks down revenue, orders, and shipping mode preferences across 4 primary regions and 49 states.
 * **Key Insights:** Identifies California and New York as primary revenue drivers; evaluates profit margins by state map boundaries and ship mode volume.
 
-![Regions Page](docs/screenshots/Regions.jpg)
+![Regions Page](ScreenShots/Regions.png)
 
 ---
 
@@ -60,7 +60,7 @@ Breaks down revenue, orders, and shipping mode preferences across 4 primary regi
 Delivers deep granularity on product performance, discount sensitivities, and line-item profitability.
 * **Key Insights:** Highlights high-volume items vs. margin-draining categories (e.g., negative profit lines in select sub-categories).
 
-![Category Page](docs/screenshots/Category.jpg)
+![Category Page](ScreenShots/Category.png)
 
 ---
 
@@ -69,7 +69,7 @@ Monitors buyer trends, order frequencies, and customer lifetime concentration.
 * **Key Metrics:** Total Unique Customers (793), Average Sales per Customer ($2.90K), Top Customer Revenue ($25.04K), Average Order Value ($458.61).
 * **Visual Highlights:** Top 5 customers by profit, decomposition trees for profit origin, and state breakdown per segment.
 
-![Customer Page](docs/screenshots/Customer.png)
+![Customer Page](ScreenShots/Customer.png)
 ## ✉️ Author
-* **Developer:** Shahm
+* **Developer:** Shahim Rhahleh
 * **Contact:** [shhmrhahlh8@gmail.com](mailto:shhmrhahlh8@gmail.com)
