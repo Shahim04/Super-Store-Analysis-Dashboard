@@ -33,6 +33,8 @@ This project transforms raw transactional data into actionable operational insig
    * Imported schema tables into Power BI and validated `1:N` single-direction relationships across dimensions and the fact table.
    * Transformed dynamic parameters using **Power Query Editor**.
    * Formulated DAX measures for core KPIs: Total Sales, Total Profit, Profit Margin %, Repeat Customer Rate %, and Average Order Value (AOV).
+
+   
    ![Star Schema Data Model](Screenshots/StarSchema.png)
 ---
 
