@@ -44,7 +44,7 @@ Provides a high-level strategic snapshot of aggregate business health across yea
 * **Key Metrics:** Total Sales ($2.30M), Total Quantity (38K), Total Profit ($286.40K), Profit Margin % (12.47%).
 * **Visual Highlights:** Multi-year trend analysis, sales distribution by category, and regional profit distribution.
 
-![Home Page](docs/screenshots/Home.jpg)
+![Home Page](C:\Users\ASUS\Desktop\ScreenShots\Home.png)
 
 ---
 
