@@ -35,7 +35,7 @@ This project transforms raw transactional data into actionable operational insig
    * Formulated DAX measures for core KPIs: Total Sales, Total Profit, Profit Margin %, Repeat Customer Rate %, and Average Order Value (AOV).
 
    
-   ![Star Schema Data Model](Screenshots/StarSchema.png)
+   ![Star Schema Data Model](ScreenShots/StarSchema.png)
 ---
 
 ## 📊 Dashboard Overview
