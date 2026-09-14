@@ -80,7 +80,7 @@ Monitors buyer trends, order frequencies, and customer lifetime concentration.
 
 The following key business questions were derived directly from the dashboard analysis to drive operational and executive decision-making:
 
-💡 Q: How does discount depth impact overall profitability, and where are we losing money?
+##💡 Q: How does discount depth impact overall profitability, and where are we losing money?
 
 Data Insight: High-volume sales in specific sub-categories yield negative net profits despite strong top-line revenue, directly correlated with aggressive discounting practices.
 
@@ -88,7 +88,7 @@ Business Takeaway: Uncapped discounting strategies are cannibalizing profit. Cer
 
 Executive Recommendation: Implement automated discount thresholds requiring regional manager approval for discounts exceeding 20% on low-margin sub-categories.
 
-💡 Q: Which product categories yield high sales volume but act as a direct drain on net profits?
+##💡 Q: Which product categories yield high sales volume but act as a direct drain on net profits?
 
 Data Insight: Select sub-categories generate consistent order volume but consistently record negative profit margins.
 
@@ -96,7 +96,7 @@ Business Takeaway: High sales volume does not equal business health. These loss-
 
 Executive Recommendation: Perform a portfolio audit: renegotiate supplier costs, raise baseline prices on unprofitable SKUs, or bundle them exclusively with high-margin items.
 
-💡 Q: How dependent is our revenue stream on top-tier individual customers versus the broader base?
+##💡 Q: How dependent is our revenue stream on top-tier individual customers versus the broader base?
 
 Data Insight: Out of 793 unique customers, average sales per customer stand at $2.90K, while the single top customer accounts for $25.04K in revenue.
 
@@ -104,7 +104,7 @@ Business Takeaway: Heavy account concentration risk. The single highest-value bu
 
 Executive Recommendation: Launch a dedicated Key Account Management (KAM) retention program for top-decile buyers while establishing automated win-back workflows for churning mid-tier accounts.
 
-💡 Q: Which geographic markets are driving net revenue, and where are shipping costs eroding margins?
+##💡 Q: Which geographic markets are driving net revenue, and where are shipping costs eroding margins?
 
 Data Insight: Across 4 primary regions and 49 states, California and New York serve as the primary engines of revenue and net profit, while mid-tier states show lower net returns due to higher shipping cost-to-revenue ratios.
 
@@ -112,7 +112,7 @@ Business Takeaway: Revenue concentration is heavily weighted in coastal hubs. Mi
 
 Executive Recommendation: Double down on localized marketing in CA and NY while auditing fulfillment center routing and setting minimum order thresholds for free shipping in mid-tier markets.
 
-💡 Q: What is our unit-level purchase profile, and how can we leverage it to scale top-line growth?
+##💡 Q: What is our unit-level purchase profile, and how can we leverage it to scale top-line growth?
 
 Data Insight: The business maintains an Average Order Value (AOV) of $458.61 across total transactional orders.
 
