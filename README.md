@@ -76,7 +76,7 @@ Monitors buyer trends, order frequencies, and customer lifetime concentration.
 
 ---
 
-💡 Business Questions & Strategic Insights
+##💡 Business Questions & Strategic Insights
 
 The following key business questions were derived directly from the dashboard analysis to drive operational and executive decision-making:
 
